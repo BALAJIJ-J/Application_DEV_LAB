@@ -9,3 +9,5 @@ password     VARCHAR
 date         TIMESTAMP
 
 index for user_id, user_name and date
+
+localhost/PHP_FORM/index.php
