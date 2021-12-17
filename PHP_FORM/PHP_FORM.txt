@@ -1,0 +1,11 @@
+Create login_sample_db in mysql
+
+Create users table with 5 columns
+
+id           BIGINT   PRIMARY A_I
+user_id      BIGINT
+user_name    VARCHAR  100
+password     VARCHAR
+date         TIMESTAMP
+
+index for user_id, user_name and date
